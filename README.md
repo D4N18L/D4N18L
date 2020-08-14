@@ -30,7 +30,7 @@
      
   <div class="right-col">
               <h2>Game Development</h2>
-     <img src = " https://media.giphy.com/media/9FgcJtvVEwlxe/giphy.gif" text-align = "center">
+     <img src = "https://media.giphy.com/media/agdrwb239dy6Y/giphy.gif" text-align = "center">
      </div>
      </div>
               
