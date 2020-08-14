@@ -33,7 +33,7 @@
  
     <!-- Sections I am Intrested in -->
   <div class = "header" text-align= "center" padding="1px">
-    <h1> Fields I am highly intrested in:</h1>
+    <h1>Intrested in:</h1>
   </div>
   
   <div class ="container">
