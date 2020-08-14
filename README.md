@@ -2,9 +2,6 @@
 
 [![HitCount](http://hits.dwyl.com/D4N18L/D4N18L.svg)](http://hits.dwyl.com/D4N18L/D4N18L)
 
-<!--
-**D4N18L/D4N18L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 WHO AM I:
 
 - 🔭 I’m currently a 3rd Year UnderGraduate studying Compute Science
@@ -23,11 +20,9 @@ WHAT WILL THESE PROJECTS BE ABOUT
   
   Gold Level: These projects will be much more complex a take reasonable bit of time to complete
   
-  
+ 
  Platinum Level:These projects will be the most difficult and will be used to show my range and capabilities when working on a long term-project.
-  
-  
-  
+ 
 - 📫 How to reach me: Email: Danieladdo0909@gmail.com
 
 Thanks for Reading!!!
