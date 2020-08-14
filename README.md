@@ -9,12 +9,12 @@
  <br>
 
   <div text-align= "center" padding="1px">
-    <h1><em><b>I'm also an Aspiring Full Stack Developer</em></h1>
+    <h1><em><b>Also an Aspiring Full Stack Developer</em></h1>
       <img src = "https://media.giphy.com/media/3kwdmZotV1NwOP1dsN/giphy.gif" text-align = "center" width="300">
   </div>
   
   <div class = "header" text-align= "center" padding="1px">
-    <h1> Fields I am highgly intrested in:</h1>
+    <h1> Fields I am highly intrested in:</h1>
   </div>
   
   <!-- Sections I am Intrested in -->
@@ -36,11 +36,8 @@
      </div>
               
 
-- 👯 I’m looking to add a lot more projects in the coming weeks that shows the field I want to work in.
-
-
  <div class = "header" text-align= "center" padding="1px">
-    <h1> WHAT WILL THESE PROJECTS BE ABOUT:</h1>
+    <h1> What will these projects be about:</h1>
   </div>
 
 - ⚡ These projects will be mainly Development based ie. Web , Mobile and Games
@@ -55,6 +52,10 @@
   
  
   Platinum Level:These projects will be the most difficult and will be used to show my range and capabilities when working on a long term-project.
+  
+  <div class = "header" text-align= "center" padding="1px">
+    <h1> Contact:</h1>
+  </div>
  
 - 📫 How to reach me:Danieladdo0909@gmail.com
 
