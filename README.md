@@ -1,5 +1,3 @@
-<img src = "https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" text-align = "center">
-
 
 <h1><strong>WELCOME TO MY CODE  CABINET 👋</strong></h1>
 
@@ -10,7 +8,10 @@
   🔭 <b>I’m currently a 3rd Year UnderGraduate studying Compute Science</b>
  <br>
  
-<em><b>I'm also an Aspiring Full Stack Developer</em>
+
+  <div text-align= "center" padding="1px">
+    <h1><em><b>I'm also an Aspiring Full Stack Developer</em></h1>
+  </div>
   
   <div class = "header" text-align= "center" padding="1px">
     <h1> Fields I am highgly intrested in:</h1>
