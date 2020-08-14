@@ -12,7 +12,7 @@
 <em><b>I'm also an Aspiring Full Stack Developer</em>
   
   <div class = "header" text-align= "center" padding="1px">
-    <h1> Fields I am highgly intrested in</h1>
+    <h1> Fields I am highgly intrested in:</h1>
   </div>
   
   <!-- Sections I am Intrested in -->
@@ -22,6 +22,7 @@
      </div>
   <div class="center-col">
               <h2>Mobile Development</h2>
+    <img src = "https://media.giphy.com/media/W3ZMy0GNhVb3Q7QyES/giphy.gif" text-align = "center">
      </div>
   <div class="right-col">
               <h2>Game Development</h2>
