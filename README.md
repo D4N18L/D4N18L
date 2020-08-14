@@ -10,7 +10,7 @@
   🔭 <b>I’m currently a 3rd Year UnderGraduate studying Compute Science</b>
  <br>
 <em><b>I'm also an Aspiring Full Stack Developer</em>
-<img src = "https://media.giphy.com/media/Jxoa0dMzFY60o/giphy.gif">
+  
   <div class = "header">
     <h1> Fields I am highgly intrested in</h1>
   </div>
