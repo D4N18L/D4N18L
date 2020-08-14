@@ -10,7 +10,7 @@
 
   <div text-align= "center" padding="1px">
     <h1><em><b>I'm also an Aspiring Full Stack Developer</em></h1>
-      <img src = "https://media.giphy.com/media/3kwdmZotV1NwOP1dsN/giphy.gif" text-align = "center" width="100">
+      <img src = "https://media.giphy.com/media/3kwdmZotV1NwOP1dsN/giphy.gif" text-align = "center" width="300">
   </div>
   
   <div class = "header" text-align= "center" padding="1px">
