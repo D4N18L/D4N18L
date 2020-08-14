@@ -13,14 +13,14 @@
       <img src = "https://media.giphy.com/media/3kwdmZotV1NwOP1dsN/giphy.gif" text-align = "center" width="300">
   </div>
   
+  <!--Projects-->
   <div class = "header" text-align= "center" padding="1px">
     <h1> Projects....:</h1>
   </div>
 
 - ⚡ These projects will be mainly Development based ie. Web , Mobile and Games
 
-- 💬 These Projects will be split across 3 tiers:
-
+- 💬 It will be split across 3 tiers:
 
   Silver Level: These will be simple and straightforward projects that will  get the Github running
   
@@ -31,12 +31,11 @@
   Platinum Level:These projects will be the most difficult and will be used to show my range and capabilities when working on a long term-project.
   
  
-  
+    <!-- Sections I am Intrested in -->
   <div class = "header" text-align= "center" padding="1px">
     <h1> Fields I am highly intrested in:</h1>
   </div>
   
-  <!-- Sections I am Intrested in -->
   <div class ="container">
   <div class="left-col">
               <h2>Website Development</h2>
