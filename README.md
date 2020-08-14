@@ -1,4 +1,4 @@
-<img src = "https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" align= "center">
+<img src = "https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" text-align = "center">
 
 
 <h1><strong>WELCOME TO MY CODE  CABINET 👋</strong></h1>
