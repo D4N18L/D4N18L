@@ -23,6 +23,6 @@
  
   Platinum Level:These projects will be the most difficult and will be used to show my range and capabilities when working on a long term-project.
  
-- 📫 How to reach me: Email: Danieladdo0909@gmail.com
+- 📫 How to reach me:Danieladdo0909@gmail.com
 
   Thanks for Reading!!!
