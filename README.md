@@ -14,6 +14,25 @@
   </div>
   
   <div class = "header" text-align= "center" padding="1px">
+    <h1> What will these projects be about:</h1>
+  </div>
+
+- ⚡ These projects will be mainly Development based ie. Web , Mobile and Games
+
+- 💬 These Projects will be split across 3 tiers:
+
+
+  Silver Level: These will be simple and straightforward projects that will  get the Github running
+  
+  
+  Gold Level: These projects will be much more complex a take reasonable bit of time to complete
+  
+ 
+  Platinum Level:These projects will be the most difficult and will be used to show my range and capabilities when working on a long term-project.
+  
+ 
+  
+  <div class = "header" text-align= "center" padding="1px">
     <h1> Fields I am highly intrested in:</h1>
   </div>
   
@@ -36,22 +55,7 @@
      </div>
               
 
- <div class = "header" text-align= "center" padding="1px">
-    <h1> What will these projects be about:</h1>
-  </div>
-
-- ⚡ These projects will be mainly Development based ie. Web , Mobile and Games
-
-- 💬 These Projects will be split across 3 tiers:
-
-
-  Silver Level: These will be simple and straightforward projects that will  get the Github running
-  
-  
-  Gold Level: These projects will be much more complex a take reasonable bit of time to complete
-  
  
-  Platinum Level:These projects will be the most difficult and will be used to show my range and capabilities when working on a long term-project.
   
   <div class = "header" text-align= "center" padding="1px">
     <h1> Contact:</h1>
