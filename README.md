@@ -9,6 +9,7 @@
 
   🔭 <b>I’m currently a 3rd Year UnderGraduate studying Compute Science</b>
  <br>
+ 
 <em><b>I'm also an Aspiring Full Stack Developer</em>
   
   <div class = "header" text-align= "center" padding="1px">
@@ -21,15 +22,17 @@
               <h2>Website Development</h2>
     <img src = " https://media.giphy.com/media/9FgcJtvVEwlxe/giphy.gif" text-align = "center">
      </div>
+  
   <div class="center-col">
               <h2>Mobile Development</h2>
     <img src = "https://media.giphy.com/media/8VkgrPdxMh0oo/giphy.gif" text-align = "center">
      </div>
+     
   <div class="right-col">
               <h2>Game Development</h2>
      <img src = " https://media.giphy.com/media/9FgcJtvVEwlxe/giphy.gif" text-align = "center">
      </div>
-              </div>
+     </div>
               
   
               
