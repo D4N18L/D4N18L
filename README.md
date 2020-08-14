@@ -5,7 +5,9 @@
   WHO AM I:
 
 - 🔭 I’m currently a 3rd Year UnderGraduate studying Compute Science
-<img src = "https://media.giphy.com/media/Jxoa0dMzFY60o/giphy.gif" width= 60><em><b>- I'm also an Aspiring Full Stack Developer</b></em
+  I'm also an Aspiring Full Stack Developer
+  <br>
+<img src = "https://media.giphy.com/media/Jxoa0dMzFY60o/giphy.gif">
 
 
 
