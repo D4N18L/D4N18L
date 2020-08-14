@@ -22,7 +22,7 @@
      </div>
   <div class="center-col">
               <h2>Mobile Development</h2>
-    <img src = "https://media.giphy.com/media/W3ZMy0GNhVb3Q7QyES/giphy.gif" text-align = "center">
+    <img src = "https://media.giphy.com/media/8VkgrPdxMh0oo/giphy.gif" text-align = "center">
      </div>
   <div class="right-col">
               <h2>Game Development</h2>
