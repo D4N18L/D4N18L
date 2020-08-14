@@ -30,4 +30,4 @@ WHAT WILL THESE PROJECTS BE ABOUT
   
 - 📫 How to reach me: Email: Danieladdo0909@gmail.com
 
---> Thanks for Reading!!!
+Thanks for Reading!!!
