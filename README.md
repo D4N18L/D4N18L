@@ -21,7 +21,7 @@
   <div class ="container">
   <div class="left-col">
               <h2>Website Development</h2>
-    <img src = "https://media.giphy.com/media/9FgcJtvVEwlxe/giphy.gif" text-align = "center" width="300">
+    <img src = "https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" text-align = "center" width="300">
      </div>
   
   <div class="center-col">
