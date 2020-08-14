@@ -7,10 +7,10 @@
 
   🔭 <b>I’m currently a 3rd Year UnderGraduate studying Compute Science</b>
  <br>
- 
 
   <div text-align= "center" padding="1px">
     <h1><em><b>I'm also an Aspiring Full Stack Developer</em></h1>
+      <img src = "https://media.giphy.com/media/3kwdmZotV1NwOP1dsN/giphy.gif" text-align = "center">
   </div>
   
   <div class = "header" text-align= "center" padding="1px">
