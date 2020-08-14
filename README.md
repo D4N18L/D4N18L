@@ -5,6 +5,15 @@
   WHO AM I:
 
 - 🔭 I’m currently a 3rd Year UnderGraduate studying Compute Science
+- I'm also an Aspiring Full Stack Developer
+https://media.giphy.com/media/Jxoa0dMzFY60o/giphy.gif
+
+
+
+
+
+
+
 
 - 👯 I’m looking to add a lot more projects in the coming weeks that shows the field I want to work in.
 
