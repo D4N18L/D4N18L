@@ -6,8 +6,8 @@
 
   🔭 I’m currently a 3rd Year UnderGraduate studying Compute Science
   
-  <p>I'm also an Aspiring Full Stack Developer</p><br>
-<img src = "https://media.giphy.com/media/Jxoa0dMzFY60o/giphy.gif">
+ <br>
+<img src = "https://media.giphy.com/media/Jxoa0dMzFY60o/giphy.gif"> <em><b>I'm also an Aspiring Full Stack Developer</em>
 
 
 
