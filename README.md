@@ -35,20 +35,13 @@
      </div>
      </div>
               
-  
-              
- 
- 
- 
- 
- 
- 
- 
- 
 
 - 👯 I’m looking to add a lot more projects in the coming weeks that shows the field I want to work in.
 
-  WHAT WILL THESE PROJECTS BE ABOUT
+
+ <div class = "header" text-align= "center" padding="1px">
+    <h1> WHAT WILL THESE PROJECTS BE ABOUT:</h1>
+  </div>
 
 - ⚡ These projects will be mainly Development based ie. Web , Mobile and Games
 
