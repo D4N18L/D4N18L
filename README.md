@@ -1,4 +1,4 @@
-<h1><strong>WELCOME TO MY CODE  CABINET</strong></h1> 👋
+<h1><strong>WELCOME TO MY CODE  CABINET 👋</strong></h1>
 
 [![HitCount](http://hits.dwyl.com/D4N18L/D4N18L.svg)](http://hits.dwyl.com/D4N18L/D4N18L)
 
