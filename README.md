@@ -1,21 +1,43 @@
+<img src = "https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" align= "center">
+
+
 <h1><strong>WELCOME TO MY CODE  CABINET 👋</strong></h1>
 
 [![HitCount](http://hits.dwyl.com/D4N18L/D4N18L.svg)](http://hits.dwyl.com/D4N18L/D4N18L)
 
   WHO AM I:
 
-  🔭 I’m currently a 3rd Year UnderGraduate studying Compute Science
-  
+  🔭 <b>I’m currently a 3rd Year UnderGraduate studying Compute Science</b>
  <br>
-<em><b>I'm also an Aspiring Full Stack Developer</em><img src = "https://media.giphy.com/media/Jxoa0dMzFY60o/giphy.gif">
-
-
-
-
-
-
-
-
+<em><b>I'm also an Aspiring Full Stack Developer</em>
+<img src = "https://media.giphy.com/media/Jxoa0dMzFY60o/giphy.gif">
+  <div class = "header">
+    <h1> Fields I am highgly intrested in</h1>
+  </div>
+  
+  <!-- Sections I am Intrested in -->
+  <div class ="container">
+  <div class="left-col">
+              <h2>Website Development</h2>
+     </div>
+  <div class="center-col">
+              <h2>Mobile Development</h2>
+     </div>
+  <div class="right-col">
+              <h2>Game Development</h2>
+     </div>
+              </div>
+              
+  
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 - 👯 I’m looking to add a lot more projects in the coming weeks that shows the field I want to work in.
 
