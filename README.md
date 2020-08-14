@@ -14,7 +14,7 @@
   </div>
   
   <div class = "header" text-align= "center" padding="1px">
-    <h1> What will these projects be about:</h1>
+    <h1> Projects....:</h1>
   </div>
 
 - ⚡ These projects will be mainly Development based ie. Web , Mobile and Games
