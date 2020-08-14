@@ -11,7 +11,7 @@
  <br>
 <em><b>I'm also an Aspiring Full Stack Developer</em>
   
-  <div class = "header">
+  <div class = "header" text-align= "center" padding="1px">
     <h1> Fields I am highgly intrested in</h1>
   </div>
   
