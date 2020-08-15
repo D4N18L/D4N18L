@@ -28,7 +28,7 @@
   Gold Level: These projects will be much more complex a take reasonable bit of time to complete
   
  
-  Platinum Level:These projects will be the most difficult and will be used to show my range and capabilities when working on a long term-project.
+  Platinum Level:These projects will be the most difficult and will be long term projects that solves a business problem
   
  
     <!-- Sections I am Intrested in -->
