@@ -22,13 +22,13 @@
 
 - 💬 It will be split across 3 tiers:
 
-  Silver Level: These will be simple and straightforward projects that will  get the Github running
+  Silver Level: These will be the small projects that uses only one algorithms to function
   
   
-  Gold Level: These projects will be much more complex a take reasonable bit of time to complete
+  Gold Level: These projects will be the more intermediate ones that uses more two or more algorithms to solve an idea
   
  
-  Platinum Level:These projects will be the most difficult and will be long term projects that solves a business problem
+  Platinum Level:These projects will be the most difficult and will be long term projects that solves a business problem by using multiple algorithms 
   
  
     <!-- Sections I am Intrested in -->
@@ -38,18 +38,19 @@
   
   <div class ="container">
   <div class="left-col">
-              <h2>Website Development</h2>
-    <img src = "https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" text-align = "center" width="300">
-     </div>
-  
+          
   <div class="center-col">
-              <h2>Mobile Development</h2>
+              <h2>Python </h2>
     <img src = "https://media.giphy.com/media/8VkgrPdxMh0oo/giphy.gif" text-align = "center" width="300">
      </div>
      
   <div class="right-col">
-              <h2>Game Development</h2>
+              <h2>Games developed using Python</h2>
      <img src = "https://media.giphy.com/media/agdrwb239dy6Y/giphy.gif" text-align = "center" width="300">
+     </div>
+     
+     <h2>Website Development</h2>
+    <img src = "https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" text-align = "center" width="300">
      </div>
      </div>
               
