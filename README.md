@@ -50,7 +50,7 @@
      </div>
      
      <h2>Website Development</h2>
-    <img src = "https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" text-align = "center" width="300">
+    <img src = "https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gifhttps://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" text-align = "center" width="300">
      </div>
      </div>
               
