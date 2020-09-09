@@ -40,7 +40,7 @@
   <div class="left-col">
           
   <div class="center-col">
-              <h2>Python </h2>
+              <h2>Apps Developed Using Python </h2>
     <img src = "https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" text-align = "center" width="300">
      </div>
      
