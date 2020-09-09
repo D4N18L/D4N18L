@@ -41,7 +41,7 @@
           
   <div class="center-col">
               <h2>Python </h2>
-    <img src = "https://media.giphy.com/media/8VkgrPdxMh0oo/giphy.gif" text-align = "center" width="300">
+    <img src = "https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" text-align = "center" width="300">
      </div>
      
   <div class="right-col">
