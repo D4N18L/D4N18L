@@ -18,14 +18,14 @@
     <h1> Projects....:</h1>
   </div>
 
-- ⚡ These projects will be mainly Development based ie. Web , Mobile and Games
+- ⚡ These projects will be mainly Development based ie. Web and Games
 
 - 💬 It will be split across 3 tiers:
 
   Silver Level: These will be the small projects that uses only one algorithms to function
   
   
-  Gold Level: These projects will be the more intermediate ones that uses more two or more algorithms to solve an idea
+  Gold Level: These projects will be the more intermediate ones that uses  two or more algorithms to solve an idea
   
  
   Platinum Level:These projects will be the most difficult and will be long term projects that solves a business problem by using multiple algorithms 
