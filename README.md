@@ -18,9 +18,7 @@
     <h1> Projects....:</h1>
   </div>
 
-- ⚡ These projects will be mainly Development based ie. Web and Games
-
-- 💬 It will be split across 3 tiers:
+- ⚡ These projects will be split across 3 tiers
 
   Silver Level: These will be the small projects that uses only one algorithms to function
   
