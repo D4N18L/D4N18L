@@ -16,13 +16,21 @@
   
   <!--Projects-->
   <div class = "header" text-align= "center" padding="1px">
-    <h1> Projects:</h1>
-     <h2> </h2>
-     <h2>Test to Speech Convertor (Using Google's gTTS API and Python's Tkinter) </h2>
-     <h2> QR Code Generator usign Python</h2>
-     <h2> Credit Card Validation using Lhuns Algorithm </h2>
-     
-    
+    <h1>  Key Projects:</h1>
+     <h2> Cancer Tumour Detector Using Convolutional Neural Network </h2>
+     <h2>Text to Speech Convertor (Using Google's gTTS API and Python's Tkinter) </h2>
+     <h2> QR Code Generator using Python</h2>
+     <h2> Credit Card Validator using Lhuns Algorithm </h2>
+     <h2> File Compression and Decompression Engine </h2>
+  
+  </div>
+  <div class = "header" text-align= "center" padding="1px">
+    <h1>  Upcoming Projects:</h1>
+    <h2>  Stock Price Prediction using Linear Regression (Machine Learning)</h2>
+    <h2> Time-Series Analysis </h2>
+    <h2> Fraud Detector  </h2>
+    <h2> Time-Series Analysis </h2>
+    <h2> Anomaly Detection  </h2>
   </div>
 
   
