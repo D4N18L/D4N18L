@@ -21,6 +21,7 @@
      <h2> QR Code Generator using Python</h2>
      <h2> Credit Card Validator using Lhuns Algorithm </h2>
      <h2> File Compression and Decompression Engine </h2>
+    <h2>Predicting Job Salaries Using-Linear Regression </h2>
   
   </div>
   <div class = "header" text-align= "center" padding="1px">
