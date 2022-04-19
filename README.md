@@ -9,7 +9,7 @@
  <h2> Currently an Artificial Intelligence Student (MSc) </h2>
 
   <div text-align= "center" padding="1px">
-    <h1><em><b>Aspiring AI Engineer/Data Analysis Scientist </em></h1>
+    <h1><em><b>Aspiring Software Developer/Engineer </em></h1>
       <img src = "https://media.giphy.com/media/1vZfYEoSIVikodzZKJ/giphy.gif" text-align = "center" width="300">
   </div>
   
